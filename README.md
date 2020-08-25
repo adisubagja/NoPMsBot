@@ -10,8 +10,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## installing
 
 #### The Easy Way
+## HEROKU DEPLOY
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adisubagja/NoPMsBot/tree/master)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+deploy)
 
 ## ENVironment VARiables
 
