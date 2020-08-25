@@ -49,16 +49,9 @@ TG_BOT_WORKERS = int(get_config("TG_BOT_WORKERS", "4"))
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi. ☺️\n"
-        "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/sudoshell/NoPMsBot\n\n\n"
-        "If you are the owner of this bot, "
-        "and are seeing this message 🤦‍♂️, "
-        "means that you have not set up "
-        "the ENVironment variables properly "
-        "for the bot to function.\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "Halo\n"
+        "Ada Yang Bisa Dibantu?.\n\n\n"
+        "ℹ️ Maintained by @Adisubagja❗️❣️"
     )
 )
 # check online status of your bot
@@ -67,8 +60,8 @@ ONLINE_CHECK_START_TEXT = get_config(
     (
         "i am online <b>master</b>\n\n"
         "This is an Open Source Project available on "
-        "https://github.com/sudoshell/NoPMsBot\n\n\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "https://t.me/adisubagja\n\n\n"
+        "ℹ️ Subscribe @Adisubagja if you 😍 using this bot❗️❣️"
     )
 )
 # IDEKWBYRW
